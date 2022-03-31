@@ -1,4 +1,4 @@
-# COVID-19 Point Prevalence
+# Exploring COVID-19 Point Prevalence
 COVID-19 Point Prevalence is a linear model project aimed at providing insights on how COVID-19 spreads, identifying areas of vulnerability, and guiding policy or medical decisions by utilizing core ideas of data science principles and techniques. 
 
 Results
